@@ -1,0 +1,13 @@
+input{
+    position: relative;
+    right: 69%;
+    float: right;
+}
+label{
+    width: 150px;
+    
+}
+form{
+    width: 800px;
+    height: 300px;
+}
